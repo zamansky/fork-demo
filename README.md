@@ -2,7 +2,7 @@
 
 this is some stuff
 
-added in the middle
+added in  middle of file
 
 stuff in the zamanskm fork
 
