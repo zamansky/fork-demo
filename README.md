@@ -2,17 +2,21 @@
 
 # fork-demo
 
-This stuff is written while on the dev branch
 
 
 this is some stuff
+
+hello
+
 hello
 
 added in  middle of file
 
-s in the zamanskm fork
+s in world the zamanskm fork
 
-and  more stuff
+and  more s
+
+stuff
 
 and on the end
 
